@@ -11,5 +11,5 @@ This repository contains a full implementation of Single Qubit Tomography. The p
 * **requirements.txt:** Python dependencies required to run the code.
 
 ## Results
-* **Fidelity:** Achieved F=1.0 for eigenstates and F~0.87 for random states.
+* **Fidelity:** Achieved F=1.0 for eigenstates and F~0.57 for random states.
 * **Method:** Pauli Projective Measurements + Linear Inversion.
