@@ -1,6 +1,5 @@
 # QST-Assignment-1
 A single-qubit quantum state tomography pipeline built from scratch using Python.
-# Quantum State Tomography (QST) Assignment
 
 ## Overview
 This repository contains a full implementation of Single Qubit Tomography. The project simulates quantum measurements, generates noisy data, and reconstructs density matrices using Linear Inversion.
